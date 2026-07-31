@@ -18,12 +18,12 @@ To install the libraries, run the following command in your terminal:
 
 '''bash
 pip install pygame numpy matplotlib
-
+'''
 or if you are using a Mac,
 
 '''bash
 pip3 install pygame numpy matplotlib
-
+'''
 ## Execution
 
 Run the file main.py.
